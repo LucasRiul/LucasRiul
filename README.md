@@ -16,6 +16,9 @@ I love the front-end, and I'm always learning more about the back-end using Node
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://angular.io/"><img height= "35" src= "https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=dd1b16"></a>
 <a href="https://docs.microsoft.com/pt-br/cpp/?view=msvc-170"><img height= "35" src= "https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img height= "35" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://www.python.org"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://learn.microsoft.com/pt-br/dotnet/"><img height= "35" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 
 <hr>
 <div align="center">
