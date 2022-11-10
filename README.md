@@ -38,3 +38,5 @@ I love the front-end, and I'm always learning more about the back-end using Node
 <hr>
 
 ![Feito com o coração](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![Snake animation](https://github.com/LucasRiul/LucasRiul/blob/output/github-contribution-grid-snake.svg)
