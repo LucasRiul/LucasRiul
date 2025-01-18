@@ -1,7 +1,36 @@
 # Hi 👋, I'm Lucas Riul😎!
+In February of 2020, I had my first contact with development, and I was sure that it was what I wanted to do for the rest of my life.
+
 I am a .NET developer with strong experience in C# and Angular, specialized in creating efficient and scalable solutions. I work on developing applications and integrations, as well as building robust RESTful APIs to ensure the best user experience. My expertise also includes working with SQL databases and version control with Git, always striving to improve system performance and quality.
 
+I have good knowledge to develop solutions, whether it's web, API or mobile, and I can also integrate everything together
+
 Passionate about learning and enhancing my technical knowledge, I am constantly seeking new technologies and practices to apply to the projects I work on. I highly value teamwork and clear communication, which allows me to collaborate effectively in agile and cross-functional environments. I am results-driven, organized, and committed to continuous professional and personal development.
+
+Technical Skills:
+- C# | .NET | .NET Core | .Net Framework
+- Angular.JS
+- JQuery
+- JavaScript | TypeScript
+- RESTful APIs
+- SQL | SQL Server | MySQL | PostgreSQL
+- SCRUM
+
+Aligned with knowledge in:
+- Bootstrap | Material
+- Sass | CSS | HTML
+- Entity Framework
+- Jira | Miro | Azure DevOps
+- Git
+
+Soft Skills:
+- Team player
+- Logical thinking and creativity
+- Quick learner
+- Good communication
+- Experience in receiving and giving feedback
+- Strong organization and management skills
+- Agile methodology
 
 <a href="https://learn.microsoft.com/pt-br/dotnet/"><img height= "35" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
 <a href="https://angular.io/"><img height= "35" src= "https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=dd1b16"></a>
